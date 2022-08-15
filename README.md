@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DanielWR08
+- meu email de contato é daniel.wacholski.rodrigues@escola.pr.gov.br
+- 👀 Estou interessado em aprender a programar novas linguagens
+- 🌱 Eu estou aprendendo a programar recentemente as linguagens de JavaScript e Scratch
